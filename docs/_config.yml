@@ -25,7 +25,7 @@ github_username:  martin-cs
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
